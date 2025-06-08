@@ -14,7 +14,7 @@ This project showcases a ** Power BI dashboard** analyzing global sales, profit,
 - Clean dark theme layout with interactive filtering
 
 ## 📂 Dataset
--Download the dataset used in this dashboard here: [Sample data.xlsx](./first_dashboard/Sample%20data.xlsx)
+-Download the dataset used in this dashboard here: [Sample data.xlsx](./dashboard/Sample%20data.xlsx)
 - Cleaned and used in `.pbix` for visualization
 
 ## 💡 Skills Demonstrated
