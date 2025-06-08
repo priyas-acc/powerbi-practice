@@ -39,7 +39,7 @@ This project showcases a ** Power BI dashboard** analyzing global sales, profit,
 - Download the `Global_sales_dashboard.pbit` file and open it using Power BI Desktop.
 - ## 📁 Power BI Template
 
-- Download the dashboard template file: [SalesDashboardTemplate.pbit](.Global_sales_dashboard.pbit)
+- Download the dashboard template file given in this folder
 - This template does not contain the dataset (due to license restrictions).
 - To use:
   1. Open in Power BI Desktop.
