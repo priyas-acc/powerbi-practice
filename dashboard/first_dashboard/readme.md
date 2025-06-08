@@ -14,7 +14,7 @@ This project showcases a ** Power BI dashboard** analyzing global sales, profit,
 - Clean dark theme layout with interactive filtering
 
 ## 📂 Dataset
-- Download the dataset used in this dashboard here: [GlobalSuperstore.csv](./Sample data.xlsx)
+-Download the dataset used in this dashboard here: [Sample data.xlsx](./dashboard/first_dashboard/Sample%20data.xlsx)
 - Cleaned and used in `.pbix` for visualization
 
 ## 💡 Skills Demonstrated
@@ -31,7 +31,7 @@ This project showcases a ** Power BI dashboard** analyzing global sales, profit,
 ---
 
 ## 👩‍💻 How to View
-- Download the `SalesDashboard.pbix` file and open it using Power BI Desktop.
+- Download the `Global_sales_dashboard.pbix` file and open it using Power BI Desktop.
 
 ---
 
