@@ -29,7 +29,7 @@ This project showcases a ** Power BI dashboard** analyzing global sales, profit,
 - Dashboard Design 
 - KPI Cards & Trend Charts
 
-## 📷 Screenshot
+## 📷 Dashboard Preview
 
 ![Dashboard Screenshot](dashboard.png)
 
@@ -37,13 +37,19 @@ This project showcases a ** Power BI dashboard** analyzing global sales, profit,
 
 ## 👩‍💻 How to View
 - Download the `Global_sales_dashboard.pbit` file and open it using Power BI Desktop.
-- ## 📁 Power BI Template
-
-- Download the dashboard template file given in this folder
-- This template does not contain the dataset (due to license restrictions).
+ 
+## 📁  How This Template Works
+> ⚠️ The `.pbit` file is a **Power BI Template** — it includes:
+> - Dashboard layout
+> - Data model
+> - Visuals and DAX logic  
+> It contains **only a single row of sample data** to preserve visual structure without sharing sensitive or licensed data.
 - To use:
   1. Open in Power BI Desktop.
   2. When prompted, load your own dataset in the expected format.
+
+
+
 
 
 ---
