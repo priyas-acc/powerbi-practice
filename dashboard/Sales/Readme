@@ -1,1 +1,51 @@
+# 📊 Sales Performance Dashboard – Power BI
+
+This interactive **Power BI dashboard** was created to analyze sales performance across countries, regions, sub-categories, and time. It provides clear visualizations of top-performing customers, product categories, and geographic regions to support data-driven business decisions.
+
+---
+
+## 📌 Key Insights
+
+- **Top Sales Countries**: Spain, France, and the UK  
+- **Top Customer**: Alexander Bond  
+- **Least Performing Country**: Sweden  
+- **Highest Profit Country**: UK  
+- **Highest Cost Country**: France  
+- **Lowest Cost Country**: Norway  
+
+---
+
+## 📊 Visual Highlights
+
+- **Map Visual**: Sales distribution by country  
+- **Table**: Customer-level and country-level performance for sales, cost, and profit  
+- **Clustered Column Chart**:
+  - Top 5 Sub-Categories by Sales: Bookcases, Chairs, Appliances, Copiers, Storage  
+  - Lowest: Labels  
+- **Pie Chart**:
+  - Region contributing most to sales quantity and cost: Central (55.11%)  
+- **Line Chart**:
+  - Highest orders: Q3 2020 (427 orders)  
+  - Lowest orders: Q1 2017 (119 orders)
+
+---
+
+## 🛠 Tools Used
+
+- Microsoft Power BI Desktop  
+- Power Query for data cleaning and transformation  
+- DAX for calculated measures  
+- Custom visuals: Map, Pie Chart, Line Chart, Table, Clustered Column Chart
+
+---
+
+## 📁 Files Included
+
+- `Sales_Dashboard.pbix` – Power BI Project file  
+- `Dashboard_Insights.pdf` – Summary report with insights  
+- `README.md` – Project documentation
+
+---
+
+
 
