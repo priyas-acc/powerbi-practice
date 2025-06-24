@@ -1,1 +1,102 @@
+# 🏥 Hospital Performance Dashboard – Power BI Project
+
+An end-to-end Business Intelligence dashboard created using Power BI as part of my **Data Analytics Internship**. This project focuses on analyzing hospital operations, patient trends, departmental efficiency, and healthcare outcomes using real-world healthcare data.
+
+---
+
+## 💼 Internship Project Overview
+
+As a Data Analytics Intern, I designed and developed a comprehensive Power BI dashboard to help **Healthy Life Hospitals** monitor performance across departments, understand patient demographics, and make data-driven operational decisions. The dashboard supports insights into patient satisfaction, treatment outcomes, staff allocation, and regional performance.
+
+---
+
+## 🎯 Objectives
+
+- Develop an interactive, user-friendly dashboard using Power BI
+- Perform data cleaning and transformation using Power Query
+- Visualize key performance indicators (KPIs) and demographic trends
+- Generate actionable insights for strategic healthcare management
+
+---
+
+## 📊 Dashboard Highlights
+
+### 🏥 Hospital Overview
+- KPIs: Total Patients (1,751), Inpatients (1,679), Revenue (₹287.6K), Deaths (86), Staff Count (54)
+- **Charts:** 
+  - Total Patients by Age Bucket (majority in 6–20 and 41–60)
+  - Inpatient vs Outpatient by Weekday (peak on Thursday/Friday)
+  - Tree Map of Patient Status (Normal, Readmit, ICU, Death)
+
+### 🏨 Departmental Analysis
+- Most patients handled in: Physical Medicine, Surgery, Operation Theatre
+- Highest revenue from: Surgery, Operation Theatre, Physical Medicine
+
+### 🌍 Regional Performance
+- British Columbia contributed ~50% of in-patients
+- Followed by California, England, and New York
+
+### 🚻 Gender-wise Insights
+- Gynaecology and Dermatology: Female-dominant
+- Orthopaedics and Neurology: Male-dominant
+
+---
+
+## 🧹 Data Preparation Process
+
+- Removed duplicate records and null values
+- Standardized categorical fields (e.g., status, department)
+- Converted data types for accurate aggregation and filtering
+- Created calculated columns and measures using DAX
+
+---
+
+## 📝 Summary Report Overview
+
+The final report includes insights and recommendations drawn from visual analytics. Key findings include:
+
+- **Operational Efficiency:** High patient loads in specific departments suggest the need for resource balancing.
+- **Age-Based Demand:** Services are most used by youth and middle-aged adults.
+- **Readmissions & ICU:** Indicate areas for improved follow-up care.
+- **Regional Dependence:** A large portion of patients comes from a few key states.
+- **Gender Distribution:** Shows service preference and demographic behavior by department.
+
+### 📌 Recommendations
+
+- Reallocate staff to high-load weekdays (Thursdays & Fridays)
+- Strengthen follow-up protocols to reduce readmissions
+- Invest in high-volume departments and improve underperformers
+- Explore regional outreach to balance patient distribution
+- Promote gender-sensitive service offerings
+
+📄 _Full report is available in the PDF summary._
+
+---
+
+## 📁 Included Files
+
+- `Hospital_Dashboard.pbix` – Main Power BI file
+- `Summary_Report.pdf` – Insightful written analysis with visuals
+- `README.md` – Project documentation (this file)
+
+---
+
+## 🛠️ Tools & Skills Used
+
+- Microsoft Power BI Desktop
+- Power Query Editor
+- DAX (Data Analysis Expressions)
+- Dashboard UX & Layout Design
+- Data Cleaning and Transformation
+
+---
+
+
+## 📬 Let’s Connect
+
+[🔗 LinkedIn](www.linkedin.com/in/priya-shaji-426001280)  
+
+
+---
+
 
