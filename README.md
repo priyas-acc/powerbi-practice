@@ -1,2 +1,2 @@
 # powerbi-practice
-Learning and practice materials for Power BI, Excel, and data visualization
+Learning and practice materials for Power BI,  and data visualization
